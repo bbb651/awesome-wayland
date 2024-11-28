@@ -148,6 +148,7 @@ LAUNCHERS
 
 - ![Rust](https://img.shields.io/badge/rust-%23281c1c.svg?style=plastic&logo=rust&logoColor=fff) [Anyrun](https://github.com/anyrun-org/anyrun) - A GTK-based Wayland-native launcher, customizable via CSS
 - ![C](https://img.shields.io/badge/c-%23044f88.svg?style=plastic&logo=c&logoColor=fff) [bemenu](https://github.com/Cloudef/bemenu) - A dynamic menu library and client program inspired by dmenu
+- ![Rust](https://img.shields.io/badge/rust-%23281c1c.svg?style=plastic&logo=rust&logoColor=fff) [cosmic-launcher](https://github.com/pop-os/cosmic-launcher) - WIP launcher for the COSMIC desktop, implementing the `wlr-layer-shell-unstable-v1` protocol
 - ![C](https://img.shields.io/badge/c-%23044f88.svg?style=plastic&logo=c&logoColor=fff) [diowapplauncher](https://github.com/DiogenesN/diowapplauncher) - A simple application launcher for Wayland compositors implementing the `xdg-shell` protocol
 - ![C](https://img.shields.io/badge/c-%23044f88.svg?style=plastic&logo=c&logoColor=fff) [diowmenu](https://github.com/DiogenesN/diowmenu) - A simple quick launch menu for wlroots-based Wayland compositors implementing the `wlr-layer-shell-unstable-v1` protocol
 - ![C](https://img.shields.io/badge/c-%23044f88.svg?style=plastic&logo=c&logoColor=fff) [dmenu-wayland](https://github.com/nyyManni/dmenu-wayland) - A wlroots-based dynamic menu for Wayland
