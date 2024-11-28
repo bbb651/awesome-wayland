@@ -86,6 +86,7 @@ COMPOSITORS
 
 - ![C](https://img.shields.io/badge/c-%23044f88.svg?style=plastic&logo=c&logoColor=fff) [Cage](https://github.com/cage-kiosk/cage) - A Wayland kiosk
 - ![C](https://img.shields.io/badge/c-%23044f88.svg?style=plastic&logo=c&logoColor=fff) [Cagebreak](https://github.com/project-repo/cagebreak) - A Wayland tiling compositor inspired by Ratpoison
+- ![Rust](https://img.shields.io/badge/rust-%23281c1c.svg?style=plastic&logo=rust&logoColor=fff) [cosmic-comp](https://github.com/pop-os/cosmic-comp) - Compositor for the COSMIC desktop environment
 - ![C](https://img.shields.io/badge/c-%23044f88.svg?style=plastic&logo=c&logoColor=fff) [croissant](https://codeberg.org/vyivel/croissant) - A wlroots-based stacking Wayland compositor
 - ![C](https://img.shields.io/badge/c-%23044f88.svg?style=plastic&logo=c&logoColor=fff) [dwl](https://codeberg.org/dwl/dwl) - A wlroots-based rewrite of DWM for Wayland
 - ![Zig](https://img.shields.io/badge/zig-%23f7a41d.svg?style=plastic&logo=zig&logoColor=fff) [foxwhale](https://github.com/malcolmstill/foxwhale) - A tiling Wayland compositor based on wlroots
