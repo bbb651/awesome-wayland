@@ -335,6 +335,7 @@ WIDGETS (BARS, PANELS, ETC.)
 ----------------------------
 
 - ![TypeScript](https://img.shields.io/badge/typescript-%233178c6.svg?style=plastic&logo=typescript&logoColor=%23faf9f8) [ags](https://github.com/Aylur/ags) - A standalone library for creating GTK-based widgets
+- ![Rust](https://img.shields.io/badge/rust-%23281c1c.svg?style=plastic&logo=rust&logoColor=fff) [Ashell](https://github.com/MalpenZibo/ashell) - A ready to go Wayland status bar for Hyprland
 - ![Zig](https://img.shields.io/badge/zig-%23f7a41d.svg?style=plastic&logo=zig&logoColor=fff) [beanclock](https://codeberg.org/bwbuhse/beanclock) - A simple clock overlay for wlroots-based Wayland compositors implementing the `wlr-layer-shell-unstable-v1` protocol
 - ![C](https://img.shields.io/badge/c-%23044f88.svg?style=plastic&logo=c&logoColor=fff) [chocobar](https://codeberg.org/notchoc/chocobar) - A simple status bar for wlroots-based Wayland compositors
 - ![Rust](https://img.shields.io/badge/rust-%23281c1c.svg?style=plastic&logo=rust&logoColor=fff) [cosmic-panel](https://github.com/pop-os/cosmic-panel) - WIP panel for the COSMIC desktop, implementing the `wlr-layer-shell-unstable-v1` protocol, with the abillity to embed wayland clients as applets
